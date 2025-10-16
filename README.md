@@ -1,1 +1,1 @@
-# EDA_2
+This notebook performs a comprehensive exploratory data analysis (EDA) on the "adult_with_headers.csv" dataset. It investigates the relationships between different demographic and socio-economic factors and income level. The analysis includes visualizations and statistical summaries to uncover patterns and insights from the data.
